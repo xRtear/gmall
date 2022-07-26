@@ -1,0 +1,9 @@
+com\doyens\gmall\product\service\impl\ManageServiceImpl.class
+com\doyens\gmall\product\mapper\BaseCategory3Mapper.class
+com\doyens\gmall\product\mapper\BaseCategory2Mapper.class
+com\doyens\gmall\product\mapper\BaseAttrInfoMapper.class
+com\doyens\gmall\product\service\ManageService.class
+com\doyens\gmall\product\controller\BaseManageController.class
+com\doyens\gmall\product\mapper\BaseCategory1Mapper.class
+com\doyens\gmall\product\mapper\BaseAttrValueMapper.class
+com\doyens\gmall\product\ServiceProductApplication.class

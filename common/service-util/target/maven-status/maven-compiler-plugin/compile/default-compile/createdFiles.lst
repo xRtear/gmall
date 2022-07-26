@@ -1,0 +1,10 @@
+com\doyens\gmall\common\handler\GlobalExceptionHandler.class
+com\doyens\gmall\common\cache\GmallCache.class
+com\doyens\gmall\common\cache\GmallCacheAspect.class
+com\doyens\gmall\common\config\MybatisPlusConfig.class
+com\doyens\gmall\common\config\RedisConfig$1.class
+com\doyens\gmall\common\constant\RedisConst.class
+com\doyens\gmall\common\config\Swagger2Config.class
+com\doyens\gmall\common\config\RedissonConfig.class
+com\doyens\gmall\common\config\RedisConfig.class
+META-INF\spring-configuration-metadata.json
